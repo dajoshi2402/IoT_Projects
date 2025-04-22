@@ -1,3 +1,4 @@
+Disaster Response and Recovery Tools for Flood
 Problem Statement: There is lack of proactive alerts system, real time data, response and recovery tool app for citizen and authority 
 Solution: The prototype is developed with below features.
 •	Proactive alerts generated based on web based weather forecast and  real time Dam level data. Also the Dam level, Dam release status, low lying area flood boundary status, Bridge level alarm generated based on real sensor data available on cloud.  
